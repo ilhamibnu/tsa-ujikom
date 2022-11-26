@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>649831649414-mso2819iulq4701sd4i2704aus13p63f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.649831649414-mso2819iulq4701sd4i2704aus13p63f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBP9UFS8D5e3aZD0g3WaZ6aCuCXybXUTeo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>649831649414</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ujikom</string>
+	<key>PROJECT_ID</key>
+	<string>ujikom-16a31</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ujikom-16a31.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:649831649414:ios:dc3ed047b5219714a88107</string>
+	<key>DATABASE_URL</key>
+	<string>https://ujikom-16a31-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

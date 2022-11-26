@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "597838926231",
+    "firebase_url": "https://ininyobaja-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ininyobaja",
+    "storage_bucket": "ininyobaja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597838926231:android:e0463fc92f84579840b4d2",
+        "android_client_info": {
+          "package_name": "com.example.ujikom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597838926231-tl4rio1vhps4td9sblirg88bk945i5h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGEfjgc9jWwoAlYQcbgz0CrBjEj9teD2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597838926231-tl4rio1vhps4td9sblirg88bk945i5h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597838926231:android:212b033d2106fedb40b4d2",
+        "android_client_info": {
+          "package_name": "com.example.ujitsabos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597838926231-tl4rio1vhps4td9sblirg88bk945i5h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGEfjgc9jWwoAlYQcbgz0CrBjEj9teD2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597838926231-tl4rio1vhps4td9sblirg88bk945i5h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
